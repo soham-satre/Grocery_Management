@@ -1,0 +1,4 @@
+D:\Project\GroceryShop\GroceryShop\bin\GroceryShop.dll
+D:\Project\GroceryShop\GroceryShop\bin\GroceryShop.pdb
+D:\Project\GroceryShop\GroceryShop\obj\Debug\GroceryShop.dll
+D:\Project\GroceryShop\GroceryShop\obj\Debug\GroceryShop.pdb
